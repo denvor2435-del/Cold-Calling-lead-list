@@ -12,4 +12,6 @@ Filters: open businesses only; national chains removed (Howdens, Wren, Magnet, H
 
 Run: `python3 scripts/build_leads.py` (needs the Places API key saved as a network secret for `places.googleapis.com`, header `X-Goog-Api-Key`).
 
-Before dialling: check each number against TPS/CTPS (sole traders are often registered). Owner / director names come from Companies House.
+Owner names: `python3 scripts/add_directors.py` looks up active directors on the public Companies House register. "(verify)" = name-only match, confirm on the call. Blank = no limited company found (likely a sole trader), ask for "the owner".
+
+Before dialling: check each number against TPS/CTPS (sole traders are often registered).

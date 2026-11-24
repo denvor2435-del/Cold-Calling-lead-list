@@ -55,7 +55,7 @@ FRANCHISE = re.compile(r"kutchenhaus|schmidt|mobalpa|cuisines|nolte|hacker|pogge
                        r"masterclass|kitchen makers|sigma 3|moben|kitchens international|optiplan", re.I)
 
 COLS = ["City", "Search area", "Date", "Company", "Phone", "Google reviews", "Rating", "Franchise?",
-        "Owner / director", "TPS/CTPS checked", "Website", "Address", "Google Maps", "Call outcome", "Notes"]
+        "Owner / director", "Companies House", "TPS/CTPS checked", "Website", "Address", "Google Maps", "Call outcome", "Notes"]
 
 def load(path, default):
     p = os.path.join(ROOT, path)
@@ -170,7 +170,7 @@ def write_xlsx(path, leads, cols, today):
         c.font = Font(bold=True, color="FFFFFF"); c.fill = head
         c.alignment = Alignment(vertical="center")
     widths = {"City": 16, "Date": 11, "Company": 38, "Phone": 15, "Google reviews": 9, "Rating": 7,
-              "Franchise?": 9, "Owner / director": 24, "TPS/CTPS checked": 10, "Website": 34,
+              "Franchise?": 9, "Owner / director": 30, "Companies House": 40, "TPS/CTPS checked": 10, "Website": 34,
               "Address": 46, "Search area": 14, "Google Maps": 22, "Call outcome": 18, "Notes": 30}
     for i, c in enumerate(cols, 1):
         ws.column_dimensions[get_column_letter(i)].width = widths.get(c, 14)
