@@ -1,0 +1,47 @@
+# Search order, highest potential first. My own ranking (not from the course):
+# wealthy commuter-belt towns with high house values come first. Region 1 = Surrey + Herts.
+# Each town is searched once; the next run carries on down the list.
+Guildford, Surrey
+St Albans, Hertfordshire
+Weybridge, Surrey
+Cobham, Surrey
+Esher, Surrey
+Harpenden, Hertfordshire
+Woking, Surrey
+Epsom, Surrey
+Reigate, Surrey
+Berkhamsted, Hertfordshire
+Farnham, Surrey
+Dorking, Surrey
+Rickmansworth, Hertfordshire
+Radlett, Hertfordshire
+Godalming, Surrey
+Leatherhead, Surrey
+Bishop's Stortford, Hertfordshire
+Hertford, Hertfordshire
+Hitchin, Hertfordshire
+Camberley, Surrey
+Watford, Hertfordshire
+Welwyn Garden City, Hertfordshire
+Haslemere, Surrey
+Redhill, Surrey
+Hemel Hempstead, Hertfordshire
+Walton-on-Thames, Surrey
+Banstead, Surrey
+Oxted, Surrey
+Tring, Hertfordshire
+Ware, Hertfordshire
+Bushey, Hertfordshire
+Potters Bar, Hertfordshire
+Cranleigh, Surrey
+Egham, Surrey
+Staines-upon-Thames, Surrey
+Stevenage, Hertfordshire
+Letchworth Garden City, Hertfordshire
+Hatfield, Hertfordshire
+Royston, Hertfordshire
+Caterham, Surrey
+Chertsey, Surrey
+Cheshunt, Hertfordshire
+Borehamwood, Hertfordshire
+Sawbridgeworth, Hertfordshire

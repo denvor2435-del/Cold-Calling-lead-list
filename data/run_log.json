@@ -1,0 +1,31 @@
+[
+ {
+  "api_requests": 35,
+  "date": "2026-11-24",
+  "leads": 193,
+  "towns": [
+   "Cobham",
+   "Esher",
+   "Guildford",
+   "Harpenden",
+   "St Albans",
+   "Weybridge",
+   "Woking"
+  ]
+ },
+ {
+  "api_requests": 5,
+  "date": "2026-11-24",
+  "leads": 158,
+  "search_areas_done": [
+   "Cobham, Surrey",
+   "Epsom, Surrey",
+   "Esher, Surrey",
+   "Guildford, Surrey",
+   "Harpenden, Hertfordshire",
+   "St Albans, Hertfordshire",
+   "Weybridge, Surrey",
+   "Woking, Surrey"
+  ]
+ }
+]

@@ -1,0 +1,732 @@
+[
+{
+"id": "ChIJNbELy8MJdkgRJkl1OuclfI4",
+"nationalPhoneNumber": "020 8393 5463",
+"formattedAddress": "199 Kingston Rd, Ewell, Epsom KT19 0AB",
+"rating": 4.9,
+"googleMapsUri": "https://maps.google.com/?cid=10267122925546326310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.acquakitchens.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 17,
+"displayName": {
+"text": "Acqua Kitchens - Epsom/Ewell",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJf0-aSXfidUgRl0QwNPuHxv4",
+"nationalPhoneNumber": "07831 550876",
+"formattedAddress": "58 Reigate Rd, Epsom KT17 3DR",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=18358510444004525207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.kitchens-unique.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 39,
+"displayName": {
+"text": "Kitchens Unique",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJsTDnbHzjdUgRU8vD20c09AM",
+"nationalPhoneNumber": "01372 826401",
+"formattedAddress": "3 Roy Richmond Way, Epsom KT19 9AF",
+"rating": 4.8,
+"googleMapsUri": "https://maps.google.com/?cid=284910159665548115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.benchmarxkitchens.co.uk/branches/epsom?y_source=1_MTA4ODc1ODkyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 6,
+"displayName": {
+"text": "Benchmarx Kitchen Showroom",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJqaAsZBDidUgRJEZ2UpAmvhw",
+"nationalPhoneNumber": "01372 303500",
+"formattedAddress": "Station Approach, Epsom KT19 8EU",
+"rating": 4.9,
+"googleMapsUri": "https://maps.google.com/?cid=2071135279937635876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://home-design-schmidt.uk/showrooms/epsom/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 45,
+"displayName": {
+"text": "SCHMIDT Epsom | Kitchens & Home Living Furniture",
+"languageCode": "fr"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJqUz59_sJdkgRqvgLO72cZxE",
+"nationalPhoneNumber": "01372 749937",
+"formattedAddress": "Unit D1, Longmead Business Centre, Felstead Rd, Epsom KT19 9QQ",
+"rating": 4.4,
+"googleMapsUri": "https://maps.google.com/?cid=1254143357799364778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.howdens.com/find-a-depot/epsom?y_source=1_ODgxMzI4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 43,
+"displayName": {
+"text": "Howdens - Epsom",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJYyXY2uoJdkgRxhz_nw1q0Fo",
+"nationalPhoneNumber": "020 8251 7000",
+"formattedAddress": "354, 356 Kingston Rd, Epsom KT19 0DT",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=6543846865320746182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 1,
+"displayName": {
+"text": "RS Kitchens & Bathrooms | Epsom & Ewell",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJbYgizC8JdkgRUcRkGyi6Wqg",
+"nationalPhoneNumber": "020 8153 0775",
+"formattedAddress": "4 Central Rd, Worcester Park KT4 8HZ",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=12131213227696899153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.sbkd.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 23,
+"displayName": {
+"text": "Silver Birch Kitchen Designs",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJ_2ZmqDwIdkgRo-HfUHpu4es",
+"nationalPhoneNumber": "020 8770 7878",
+"formattedAddress": "1 High St, Cheam, Sutton, Surrey SM3 8RQ",
+"rating": 4.5,
+"googleMapsUri": "https://maps.google.com/?cid=16996987940294877603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.cheamkitchens.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 28,
+"displayName": {
+"text": "Cheam Kitchens",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJjSQ1-LEJdkgR6nw0IQFqMCE",
+"nationalPhoneNumber": "020 8337 7577",
+"formattedAddress": "61 Central Rd, Worcester Park KT4 8EB",
+"rating": 4.8,
+"googleMapsUri": "https://maps.google.com/?cid=2391527955218332906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://lemonlimeinteriors.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 51,
+"displayName": {
+"text": "Lemon and Lime Interiors Ltd",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJOdGZ1GgIdkgR56c_pcTkdh4",
+"nationalPhoneNumber": "020 8641 0424",
+"formattedAddress": "K2, Trade Park, Sutton SM3 9QS",
+"rating": 4.7,
+"googleMapsUri": "https://maps.google.com/?cid=2195193401626830823&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.benchmarxkitchens.co.uk/branches/sutton?y_source=1_MTA4ODc1ODk5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 24,
+"displayName": {
+"text": "Benchmarx Kitchen Showroom",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJgWzhebQLdkgRdLuRXi5sdTU",
+"nationalPhoneNumber": "020 8399 0990",
+"formattedAddress": "44-46 Brighton Rd, Surbiton KT6 5PL",
+"rating": 4.8,
+"googleMapsUri": "https://maps.google.com/?cid=3852104002696231796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://acquakitchens.co.uk/service/kitchens-surbiton/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 38,
+"displayName": {
+"text": "Acqua Kitchens - Surbiton",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJg1JwlDYCdkgRWKjYHGWDsgY",
+"nationalPhoneNumber": "020 3609 4555",
+"formattedAddress": "The Chapel, 95 Ewell Rd, Surbiton KT6 6AH",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=482592580380960856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.thomasdavieskitchens.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 16,
+"displayName": {
+"text": "Thomas Davies Kitchens",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJub8YaykKdkgR6RS6PKtXfbI",
+"nationalPhoneNumber": "020 3553 1835",
+"formattedAddress": "406 Ewell Rd, Tolworth, Surbiton KT6 7HF",
+"rating": 4.6,
+"googleMapsUri": "https://maps.google.com/?cid=12861532503809856745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.dreamdoors.co.uk/kitchen-showrooms/kingston?utm_source=google&utm_medium=organic&utm_campaign=googleBusinessProfile",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 34,
+"displayName": {
+"text": "Dream Doors Kingston",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJpzCjyToKdkgRbU2CFas6LBA",
+"nationalPhoneNumber": "020 8397 1111",
+"formattedAddress": "7, Chancery Gate Business Centre, 214 Red Lion Rd, Surbiton KT6 7RA",
+"rating": 4.9,
+"googleMapsUri": "https://maps.google.com/?cid=1165370910056795501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://brayerdesign.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 30,
+"displayName": {
+"text": "Brayer Design",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJ2QNNu4cJdkgR7u-VQdtnxvE",
+"nationalPhoneNumber": "01372 855620",
+"formattedAddress": "17 Upper High St, Epsom KT17 4QY",
+"rating": 3.8,
+"googleMapsUri": "https://maps.google.com/?cid=17421726399925186542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.techbuilddesign.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 11,
+"displayName": {
+"text": "Technical Building Design - ( Architects,Planning Permission, Interior Design, Builders,Kitchens, Bathrooms,Bedrooms, Tiles",
+"languageCode": "en"
+},
+"primaryType": "service"
+},
+{
+"id": "ChIJZXq_X7TjdUgR85REV0lGufI",
+"nationalPhoneNumber": "07886 216140",
+"formattedAddress": "Epsom KT17 3LF",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=17490087908680701171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.anew-i.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 25,
+"displayName": {
+"text": "Anew-i",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJ_1CYJ27idUgRVeijJJYwvTQ",
+"nationalPhoneNumber": "07598 919054",
+"formattedAddress": "16 St Johns Ave, Epsom KT17 3BE",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=3800247081988515925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://tkkitchens.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 37,
+"displayName": {
+"text": "TK Kitchen Installations",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJWTNx_OYLdkgRKgLwCm2w2EI",
+"nationalPhoneNumber": "01372 748890",
+"formattedAddress": "PEEL CENTRE, Kiln Ln, Epsom KT17 1EQ",
+"rating": 4,
+"googleMapsUri": "https://maps.google.com/?cid=4816793783854170666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.wickes.co.uk/store/8309?utm_source=google&utm_medium=organic&utm_campaign=lpm_google_epsom",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 481,
+"displayName": {
+"text": "Wickes Epsom",
+"languageCode": "en"
+},
+"primaryType": "home_improvement_store"
+},
+{
+"id": "ChIJy0ToNSIKdkgR_bqv3W7mcjU",
+"nationalPhoneNumber": "020 8391 5604",
+"formattedAddress": "King George's Trading Estate, Unit 5 Davis Rd, Chessington KT9 1TT",
+"rating": 4.1,
+"googleMapsUri": "https://maps.google.com/?cid=3851393995195267837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.howdens.com/find-a-depot/chessington?y_source=1_ODgxMzM3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 23,
+"displayName": {
+"text": "Howdens - Chessington",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJ8QoOpS4KdkgRB3GOYn57LX4",
+"nationalPhoneNumber": "020 8390 0648",
+"formattedAddress": "6, 372 Ewell Rd, Tolworth, Surbiton KT6 7BA",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=9092059005480497415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.abwaters.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 15,
+"displayName": {
+"text": "A & B Waters Ltd",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJl7BTngvidUgR1avmLKAvzhg",
+"nationalPhoneNumber": "01372 748020",
+"formattedAddress": "21, Nonsuch Industrial Estate, Kiln Ln, Epsom KT17 1DH",
+"rating": 4.8,
+"googleMapsUri": "https://maps.google.com/?cid=1787418467107253205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.boydentiles.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 39,
+"displayName": {
+"text": "Boyden - Tiles & Bathrooms Epsom",
+"languageCode": "en"
+},
+"primaryType": "building_materials_store"
+},
+{
+"id": "ChIJv2dECnwJdkgR9MhOaB5rR2o",
+"nationalPhoneNumber": "020 8770 7924",
+"formattedAddress": "17a Sutton Court Rd, Sutton SM1 4FG",
+"rating": 4.7,
+"googleMapsUri": "https://maps.google.com/?cid=7658207469710002420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.mqmodernliving.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 14,
+"displayName": {
+"text": "MQ Modern Living Kitchen Showroom",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJT4qWfRkJdkgRZ0x8OXgDNyE",
+"nationalPhoneNumber": "01372 736929",
+"formattedAddress": "192-194 Kingston Rd, Epsom KT19 0SF",
+"rating": 4.7,
+"googleMapsUri": "https://maps.google.com/?cid=2393385541866114151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.nordenbathrooms.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 96,
+"displayName": {
+"text": "Norden Bathrooms & Tiles",
+"languageCode": "en"
+},
+"primaryType": "building_materials_store"
+},
+{
+"id": "ChIJgWHojI0JdkgRSP0kawE79qg",
+"nationalPhoneNumber": "020 8393 4358",
+"formattedAddress": "The Downs Farm, Reigate Rd, Epsom KT17 3BY",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=12174983519921306952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.secommercialkitchens.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 4,
+"displayName": {
+"text": "South East Commercial Kitchens Ltd",
+"languageCode": "en"
+},
+"primaryType": "manufacturer"
+},
+{
+"id": "ChIJi7J7MG3jdUgRqxfN6pf2hBE",
+"nationalPhoneNumber": "01372 741888",
+"formattedAddress": "The Ashley Centre, Epsom KT18 5DB",
+"rating": 4.8,
+"googleMapsUri": "https://maps.google.com/?cid=1262404927910385579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://barnesandfadden.com/our-stores/epsom/?utm_source=google&utm_medium=organic&utm_campaign=gbp_epsom&utm_content=website",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 32,
+"displayName": {
+"text": "Barnes & Fadden - Epsom",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJodlQH0IJdkgRBAidjyG-jVE",
+"nationalPhoneNumber": "020 8402 1234",
+"formattedAddress": "201 Kingston Rd, Epsom KT18 0AB",
+"rating": 4.9,
+"googleMapsUri": "https://maps.google.com/?cid=5876562140140996612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://kassapromedesigns.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 58,
+"displayName": {
+"text": "Kassa Prime Designs",
+"languageCode": "en"
+},
+"primaryType": "service"
+},
+{
+"id": "ChIJezGbijgKdkgRmbBgxrOr0MI",
+"nationalPhoneNumber": "020 8391 3699",
+"formattedAddress": "402 Hook Rise N, Surbiton KT6 5AT",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=14037908827129557145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 2,
+"displayName": {
+"text": "The London Kitchen Store",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJyWxNzUsIdkgRP8_SM6f45RQ",
+"nationalPhoneNumber": "020 8335 0333",
+"formattedAddress": "475-477 London Rd, Worcester Park, Sutton SM3 8JW",
+"rating": 4.5,
+"googleMapsUri": "https://maps.google.com/?cid=1505883047437979455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.waterhousedesigns.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 15,
+"displayName": {
+"text": "Waterhouse Designs",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJzTsHGnMIdkgRHn3oGg0YupI",
+"nationalPhoneNumber": "020 8643 8407",
+"formattedAddress": "Unit C1, 301 High St, Sutton SM1 1AN",
+"rating": 4.1,
+"googleMapsUri": "https://maps.google.com/?cid=10572789519770746142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.magnet.co.uk/kitchen-showrooms-sutton/?utm_source=ExtNetwork&utm_medium=local",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 17,
+"displayName": {
+"text": "Magnet Kitchens",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJNXrLHcErcA4RfmgAB31Tf-Y",
+"nationalPhoneNumber": "020 8050 4804",
+"formattedAddress": "Church St, Epsom KT17 4PY",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=16609085747219163262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.cvhjoinery.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 31,
+"displayName": {
+"text": "CVH Joinery Ltd",
+"languageCode": "en"
+},
+"primaryType": "manufacturer"
+},
+{
+"id": "ChIJSUUWzJ3jdUgRX5vLY3PnvUo",
+"nationalPhoneNumber": "07368 235160",
+"formattedAddress": "41 High St, Banstead SM7 2NH",
+"rating": 4,
+"googleMapsUri": "https://maps.google.com/?cid=5385715212186524511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://lunicobespokedesign.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 4,
+"displayName": {
+"text": "L\u2019unico Bespoke Design",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJlYRsqzf7dUgRyf1xjHOTOCk",
+"nationalPhoneNumber": "01737 780158",
+"formattedAddress": "5-7 Linkfield Cor, Redhill RH1 1BD",
+"rating": 4.7,
+"googleMapsUri": "https://maps.google.com/?cid=2970286078737645001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.raffles-redhill.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 55,
+"displayName": {
+"text": "Raffles Trading Ltd",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJcQLrxb8LdkgRYdY3WYBosQY",
+"nationalPhoneNumber": "020 8546 3100",
+"formattedAddress": "14 High St, Kingston upon Thames KT1 1EY",
+"rating": 3.7,
+"googleMapsUri": "https://maps.google.com/?cid=482281535567287905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.kitchencraft-surrey.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 3,
+"displayName": {
+"text": "Kitchencraft Surrey",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJO-YsyVMKdkgRzw9cBXY0UMI",
+"nationalPhoneNumber": "020 8398 8863",
+"formattedAddress": "49-55 Fleece Rd, Long Ditton, Surbiton KT6 5JR",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=14001748922995576783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://bathroomandkitcheneleven.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 90,
+"displayName": {
+"text": "Bathroom & Kitchen Eleven",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJF-lofTgKdkgRgJrNIetlfjw",
+"nationalPhoneNumber": "020 8397 1199",
+"formattedAddress": "178 Hook Rd, Surbiton KT6 5BZ",
+"rating": 4.9,
+"googleMapsUri": "https://maps.google.com/?cid=4359033549900061312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.kitchen-worktops-london.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 92,
+"displayName": {
+"text": "Kitchen Worktops Surrey London. Quartz, Marble, Granite Fabricator",
+"languageCode": "en"
+},
+"primaryType": "supplier"
+},
+{
+"id": "ChIJKeBXPVcIdkgRMvA9BSMZjRw",
+"nationalPhoneNumber": "020 8330 0675",
+"formattedAddress": "Unit 3, Tradeway Centre, 17 Kimpton Park Way, Sutton SM3 9QS",
+"rating": 4.5,
+"googleMapsUri": "https://maps.google.com/?cid=2057328242980679730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.howdens.com/find-a-depot/sutton?y_source=1_ODgxMzA1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 70,
+"displayName": {
+"text": "Howdens - Sutton",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJ20f8vrMLdkgRMi0t4df_K2Y",
+"nationalPhoneNumber": "020 8390 7197",
+"formattedAddress": "The White Cottage, 99 Brighton Rd, Surbiton KT6 5NF",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=7362259318528093490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.kitchencraft-surrey.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 4,
+"displayName": {
+"text": "Kitchencraft & Kingston Bathrooms",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJs4ZbwNLjdUgRFbdAhGjj5uw",
+"nationalPhoneNumber": "01372 276890",
+"formattedAddress": "Langley Bottom Farm, Langley Vale Rd, Epsom KT18 6AP",
+"rating": 3.9,
+"googleMapsUri": "https://maps.google.com/?cid=17070581475629381397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 32,
+"displayName": {
+"text": "KWP Build by Design Limited",
+"languageCode": "en"
+},
+"primaryType": "service"
+},
+{
+"id": "ChIJpeN1bGf_dUgRIQ_kuVu63Qk",
+"nationalPhoneNumber": "020 3917 6181",
+"formattedAddress": "73 Croydon Rd, Caterham CR3 6PD",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=710929219317927713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://colourhouseinteriors.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 88,
+"displayName": {
+"text": "Colour House Interiors",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJuX60tcwLdkgRcWfn2wTkwyE",
+"nationalPhoneNumber": "020 8335 1818",
+"formattedAddress": "153-155 Ewell Rd, Surbiton KT6 6AW",
+"rating": 4.6,
+"googleMapsUri": "https://maps.google.com/?cid=2433038933230577521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.limeshowrooms.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 12,
+"displayName": {
+"text": "Lime Showrooms",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJW6VSHXbidUgR_eJOmerfPfY",
+"nationalPhoneNumber": "020 8786 0520",
+"formattedAddress": "15 St James Ave, Ewell, Epsom KT17 1PT",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=17743584305597047549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.fusion-interiordesign.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 50,
+"displayName": {
+"text": "Fusion Interior Design",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJMfoxb8YJdkgRrnwENOubAIM",
+"nationalPhoneNumber": "020 8394 0521",
+"formattedAddress": "5 The Broadway Stoneleigh, Stoneleigh, Epsom KT17 2JA",
+"rating": 4.9,
+"googleMapsUri": "https://maps.google.com/?cid=9439716253460888750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.pose-bathrooms.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 53,
+"displayName": {
+"text": "Pose Bathrooms",
+"languageCode": "en"
+},
+"primaryType": "building_materials_store"
+},
+{
+"id": "ChIJHaissmkIdkgROsIWxXOMcr4",
+"nationalPhoneNumber": "0844 809 9186",
+"formattedAddress": "67 South St, Epsom KT18 7PY",
+"googleMapsUri": "https://maps.google.com/?cid=13723185443407053370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.steelplankitchens.co.uk/",
+"businessStatus": "OPERATIONAL",
+"displayName": {
+"text": "Steelplan Kitchens",
+"languageCode": "en"
+},
+"primaryType": "manufacturer"
+},
+{
+"id": "ChIJv0ipko0JdkgRUjsqRzBTe80",
+"nationalPhoneNumber": "07922 217000",
+"formattedAddress": "24 Watersedge, Epsom KT19 9QA",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=14806519666728123218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://dandbuild.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 20,
+"displayName": {
+"text": "D & Build Ltd",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJ_Xm3pQ7idUgRJwM5P0ncHl8",
+"nationalPhoneNumber": "01372 743678",
+"formattedAddress": "Unit B3, Longmead Business Centre, Blenheim Rd, Epsom KT19 9QQ",
+"rating": 3.5,
+"googleMapsUri": "https://maps.google.com/?cid=6854157890055897895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://bathrooms.com/pages/showroom-locator/7507",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 2,
+"displayName": {
+"text": "The Bathroom Showroom",
+"languageCode": "en"
+},
+"primaryType": "building_materials_store"
+},
+{
+"id": "ChIJUY6Pzc4HdkgRy1OZh-cx2YY",
+"nationalPhoneNumber": "07931 192706",
+"formattedAddress": "163 Seaforth Gardens, Epsom KT19 0LW",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=9716852541510734795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://www.redmondbuilding.co.uk/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 3,
+"displayName": {
+"text": "Redmond Design & Build Ltd",
+"languageCode": "en"
+},
+"primaryType": "service"
+},
+{
+"id": "ChIJ_1CYJ27idUgRVeijJJYwvTQ",
+"nationalPhoneNumber": "07598 919054",
+"formattedAddress": "16 St Johns Ave, Epsom KT17 3BE",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=3800247081988515925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://tkkitchens.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 37,
+"displayName": {
+"text": "TK Kitchen Installations",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+},
+{
+"id": "ChIJqUz59_sJdkgRqvgLO72cZxE",
+"nationalPhoneNumber": "01372 749937",
+"formattedAddress": "Unit D1, Longmead Business Centre, Felstead Rd, Epsom KT19 9QQ",
+"rating": 4.4,
+"googleMapsUri": "https://maps.google.com/?cid=1254143357799364778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "https://www.howdens.com/find-a-depot/epsom?y_source=1_ODgxMzI4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 43,
+"displayName": {
+"text": "Howdens - Epsom",
+"languageCode": "en"
+},
+"primaryType": "furniture_store"
+},
+{
+"id": "ChIJ_1CYJ27idUgRVeijJJYwvTQ",
+"nationalPhoneNumber": "07598 919054",
+"formattedAddress": "16 St Johns Ave, Epsom KT17 3BE",
+"rating": 5,
+"googleMapsUri": "https://maps.google.com/?cid=3800247081988515925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+"websiteUri": "http://tkkitchens.com/",
+"businessStatus": "OPERATIONAL",
+"userRatingCount": 37,
+"displayName": {
+"text": "TK Kitchen Installations",
+"languageCode": "en"
+},
+"primaryType": "general_contractor"
+}
+]
