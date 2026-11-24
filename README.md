@@ -1,6 +1,6 @@
 # Cold-calling lead list: UK kitchen companies
 
-Daily list of kitchen design & installation companies (showrooms / supply + fit) with **fewer than 150 Google reviews**, for DNV Leads cold calling.
+Daily list of kitchen design & installation companies (showrooms / supply + fit) with **fewer than 150 Google reviews**, for DNVRLEADS cold calling.
 
 - `leads/YYYY-MM-DD.xlsx`: that day's call sheet, kept simple: Business name, Owner name, Phone, Reviews, Area (sorted by area). Import into Google Sheets via File → Import → Upload.
 - `leads/all_leads.csv`: every lead so far with full detail (website, address, Companies House no., all directors), sorted by city then date.
