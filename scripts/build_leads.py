@@ -31,7 +31,8 @@ OFF_NICHE = re.compile(r"bathroom|tile|ceramic|stone|marble|quartz|granite|workt
                        r"extension|roofing|floor|carpet|curtain|blind|wardrobe|bedroom furniture|garden|"
                        r"outdoor|electrical|appliance|bed\b|sofa|carpent|interior design|handles|\btops\b|"
                        r"home improvement|contruction|conversion|contracts|neatsmith|tinkletorium", re.I)
-ALWAYS_OFF = re.compile(r"outdoor kitchen|kitchen in the garden|fitters?\b|install|fit a kitchen|"
+ALWAYS_OFF = re.compile(r"outdoor kitchen|worktop|commercial kitchen|catering|steelplan|architect|"
+                        r"planning permission|kitchen in the garden|fitters?\b|install|fit a kitchen|"
                         r"fit my kitchen|handyman|tradesman|freelance|cookware|kitchen shop|kitchenware", re.I)
 KITCHEN = re.compile(r"kitchen|k&b|cuisine", re.I)
 POSTCODE = re.compile(r"\s*[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}$")
