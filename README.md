@@ -2,8 +2,8 @@
 
 Daily list of kitchen design & installation companies (showrooms / supply + fit) with **fewer than 150 Google reviews**, for DNV Leads cold calling.
 
-- `leads/YYYY-MM-DD.xlsx`: that day's list. First tab is everything; one tab per town. Import into Google Sheets via File → Import → Upload.
-- `leads/all_leads.csv`: every lead so far, sorted by city then date.
+- `leads/YYYY-MM-DD.xlsx`: that day's call sheet, kept simple: Business name, Owner name, Phone, Reviews, Area (sorted by area). Import into Google Sheets via File → Import → Upload.
+- `leads/all_leads.csv`: every lead so far with full detail (website, address, Companies House no., all directors), sorted by city then date.
 - `data/towns.txt`: search order (highest potential first). Each run carries on down the list.
 - `data/seen_place_ids.json`: companies already listed, so nobody appears twice.
 - `data/run_log.json`: leads and Google API requests used per run (keep requests inside the free allowance).

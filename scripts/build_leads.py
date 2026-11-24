@@ -159,34 +159,31 @@ def main():
     save("data/run_log.json", log)
     print(json.dumps(log[-1]))
 
+SIMPLE = [("Business name", 38), ("Owner name", 24), ("Phone", 15), ("Reviews", 9), ("Area", 18)]
+
+def owner_short(v):
+    """First director only: 'Daniel Butler (+1: ...)' -> 'Daniel Butler'; keeps '(verify)'."""
+    v = v or ""
+    verify = v.endswith("(verify)")
+    name = re.sub(r"\s*\(.*", "", v).strip()
+    return f"{name} (verify)" if name and verify else name
+
 def write_xlsx(path, leads, cols, today):
+    """Call sheet kept deliberately simple: 5 columns, one tab, sorted by area.
+    Full detail (website, address, Companies House no., etc.) stays in leads/all_leads.csv."""
     wb = Workbook()
     ws = wb.active; ws.title = today
-    ws.append(cols)
-    for r in leads:
-        ws.append([r[c] for c in cols])
-    head = PatternFill("solid", fgColor="1F3864")
+    ws.append([c for c, _ in SIMPLE])
+    for r in sorted(leads, key=lambda r: (r["City"], r["Company"])):
+        try: n = int(r["Google reviews"] or 0)
+        except ValueError: n = 0
+        ws.append([r["Company"], owner_short(r.get("Owner / director", "")), r["Phone"], n, r["City"]])
     for c in ws[1]:
-        c.font = Font(bold=True, color="FFFFFF"); c.fill = head
-        c.alignment = Alignment(vertical="center")
-    widths = {"City": 16, "Date": 11, "Company": 38, "Phone": 15, "Google reviews": 9, "Rating": 7,
-              "Franchise?": 9, "Owner / director": 30, "Companies House": 40, "TPS/CTPS checked": 10, "Website": 34,
-              "Address": 46, "Search area": 14, "Google Maps": 22, "Call outcome": 18, "Notes": 30}
-    for i, c in enumerate(cols, 1):
-        ws.column_dimensions[get_column_letter(i)].width = widths.get(c, 14)
-    ws.freeze_panes = "D2"
+        c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="1F3864")
+    for i, (_, w) in enumerate(SIMPLE, 1):
+        ws.column_dimensions[get_column_letter(i)].width = w
+    ws.freeze_panes = "A2"
     ws.auto_filter.ref = ws.dimensions
-    # one tab per city as well, for calling a town at a time
-    for city in sorted({r["City"] for r in leads}):
-        t = wb.create_sheet(city[:31]); t.append(cols)
-        for c in t[1]:
-            c.font = Font(bold=True, color="FFFFFF"); c.fill = head
-        for r in leads:
-            if r["City"] == city:
-                t.append([r[c] for c in cols])
-        for i, c in enumerate(cols, 1):
-            t.column_dimensions[get_column_letter(i)].width = widths.get(c, 14)
-        t.freeze_panes = "D2"
     wb.save(path)
 
 if __name__ == "__main__":
