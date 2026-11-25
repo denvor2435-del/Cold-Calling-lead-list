@@ -45,3 +45,19 @@ Chertsey, Surrey
 Cheshunt, Hertfordshire
 Borehamwood, Hertfordshire
 Sawbridgeworth, Hertfordshire
+# Region 2 (my ranking): Bucks + Berkshire commuter belt
+Beaconsfield, Buckinghamshire
+Gerrards Cross, Buckinghamshire
+Amersham, Buckinghamshire
+Marlow, Buckinghamshire
+Ascot, Berkshire
+Windsor, Berkshire
+Maidenhead, Berkshire
+Henley-on-Thames, Oxfordshire
+High Wycombe, Buckinghamshire
+Wokingham, Berkshire
+Reading, Berkshire
+Chesham, Buckinghamshire
+Aylesbury, Buckinghamshire
+Bracknell, Berkshire
+Newbury, Berkshire

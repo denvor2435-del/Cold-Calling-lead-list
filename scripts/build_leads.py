@@ -31,19 +31,35 @@ OFF_NICHE = re.compile(r"bathroom|tile|ceramic|stone|marble|quartz|granite|workt
                        r"extension|roofing|floor|carpet|curtain|blind|wardrobe|bedroom furniture|garden|"
                        r"outdoor|electrical|appliance|bed\b|sofa|carpent|interior design|handles|\btops\b|"
                        r"home improvement|contruction|conversion|contracts|neatsmith|tinkletorium", re.I)
-ALWAYS_OFF = re.compile(r"outdoor kitchen|worktop|commercial kitchen|catering|steelplan|architect|"
+ALWAYS_OFF = re.compile(r"outdoor kitchen|worktop|cake|wraps?\b|kitchen doors|huws gray|double glazing|"
+                        r"igd building|house refurbishment|procook|equipment|makeover|revamp|kitchenfitter|"
+                        r"commercial kitchen|catering|steelplan|architect|"
                         r"planning permission|kitchen in the garden|fitters?\b|install|fit a kitchen|"
                         r"fit my kitchen|handyman|tradesman|freelance|cookware|kitchen shop|kitchenware", re.I)
-KITCHEN = re.compile(r"kitchen|k&b|cuisine", re.I)
+KITCHEN = re.compile(r"kitchen|k&b|cuisine|k[uü]che", re.I)
 POSTCODE = re.compile(r"\s*[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}$")
 
-def fit_for_niche(title):
-    """'' = keep, otherwise the reason it was dropped."""
+def fit_for_niche(title, website=None):
+    """'' = keep, otherwise the reason it was dropped.
+    With a website (new searches), keep only if the name or the web address says kitchen,
+    or it is a known kitchen brand: Google lumps furniture shops, upholsterers, builders etc.
+    into these searches and their websites can't be checked from here."""
+    domain = re.sub(r"^https?://(www\.)?", "", website or "").split("/")[0]
     if EXCLUDE.search(title): return "chain"
-    if ALWAYS_OFF.search(title): return "off-niche"
-    if KITCHEN.search(title): return ""
+    if ALWAYS_OFF.search(title) or ALWAYS_OFF.search(domain): return "off-niche"
+    if KITCHEN.search(title) or KITCHEN.search(domain) or FRANCHISE.search(title + " " + domain): return ""
+    if website is not None: return "no kitchen signal"
     if OFF_NICHE.search(title): return "off-niche"
     return ""
+
+# Postcode areas of London + the commuter belt (Region 1 and the regions next to it).
+# Stops a search for "Royston" or "Windsor" pulling in the town of the same name elsewhere.
+SOUTH_EAST = {"GU","KT","RH","SM","CR","TW","AL","SG","HP","WD","EN","CM","LU","SL","RG","OX","MK",
+              "HA","UB","N","NW","E","EC","SE","SW","W","WC","BR","TN","ME","DA","IG","RM","SS","CB","PO","BN"}
+
+def in_region(address):
+    m = re.search(r"\b([A-Z]{1,2})\d[A-Z\d]?\s*\d[A-Z]{2}\b", address or "")
+    return bool(m) and m.group(1) in SOUTH_EAST
 
 def town_of(address, fallback):
     parts = [x.strip() for x in address.split(",") if x.strip() and x.strip() != "UK"]
@@ -99,6 +115,7 @@ def main():
     leads = [r for r in rows if r["Date"] == today]          # re-running the same day tops up
     rows = [r for r in rows if r["Date"] != today]
     raw = []
+    phones = {r["Phone"] for r in rows + leads}
     for town in towns:
         if len(leads) >= TARGET or requests_used >= MAX_REQUESTS:
             break
@@ -117,8 +134,12 @@ def main():
                         title = p.get("displayName", {}).get("text", "")
                         n = p.get("userRatingCount", 0) or 0
                         raw.append(p)
-                        if n >= MAX_REVIEWS or fit_for_niche(title) or not p.get("nationalPhoneNumber"):
+                        if n >= MAX_REVIEWS or fit_for_niche(title, p.get("websiteUri", "")) or not p.get("nationalPhoneNumber"):
                             continue
+                        phone = p["nationalPhoneNumber"]
+                        if not in_region(p.get("formattedAddress", "")) or phone in phones:
+                            continue
+                        phones.add(phone)
                         seen.add(pid)
                         leads.append({
                             "City": town_of(p.get("formattedAddress", ""), name), "Search area": name, "Date": today, "Company": title,
