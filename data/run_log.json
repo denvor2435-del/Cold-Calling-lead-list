@@ -133,5 +133,80 @@
    "Welwyn Garden City, Hertfordshire",
    "Windsor, Berkshire"
   ]
+ },
+ {
+  "api_requests": 42,
+  "date": "2026-11-26",
+  "leads": 56,
+  "search_areas_done": [
+   "Aylesbury, Buckinghamshire",
+   "Bracknell, Berkshire",
+   "Chesham, Buckinghamshire",
+   "Henley-on-Thames, Oxfordshire",
+   "High Wycombe, Buckinghamshire",
+   "Maidenhead, Berkshire",
+   "Newbury, Berkshire",
+   "Reading, Berkshire",
+   "Wokingham, Berkshire"
+  ]
+ },
+ {
+  "api_requests": 45,
+  "date": "2026-11-26",
+  "leads": 128,
+  "search_areas_done": [
+   "Aylesbury, Buckinghamshire",
+   "Billericay, Essex",
+   "Bracknell, Berkshire",
+   "Brentwood, Essex",
+   "Chelmsford, Essex",
+   "Chesham, Buckinghamshire",
+   "East Grinstead, West Sussex",
+   "Epping, Essex",
+   "Haywards Heath, West Sussex",
+   "Henley-on-Thames, Oxfordshire",
+   "High Wycombe, Buckinghamshire",
+   "Horsham, West Sussex",
+   "Maidenhead, Berkshire",
+   "Newbury, Berkshire",
+   "Reading, Berkshire",
+   "Saffron Walden, Essex",
+   "Sevenoaks, Kent",
+   "Tonbridge, Kent",
+   "Tunbridge Wells, Kent",
+   "Wokingham, Berkshire"
+  ]
+ },
+ {
+  "api_requests": 26,
+  "date": "2026-11-26",
+  "leads": 151,
+  "search_areas_done": [
+   "Aylesbury, Buckinghamshire",
+   "Basingstoke, Hampshire",
+   "Billericay, Essex",
+   "Bracknell, Berkshire",
+   "Brentwood, Essex",
+   "Chelmsford, Essex",
+   "Chesham, Buckinghamshire",
+   "East Grinstead, West Sussex",
+   "Epping, Essex",
+   "Farnborough, Hampshire",
+   "Fleet, Hampshire",
+   "Haywards Heath, West Sussex",
+   "Henley-on-Thames, Oxfordshire",
+   "High Wycombe, Buckinghamshire",
+   "Horsham, West Sussex",
+   "Maidenhead, Berkshire",
+   "Maidstone, Kent",
+   "Newbury, Berkshire",
+   "Reading, Berkshire",
+   "Saffron Walden, Essex",
+   "Sevenoaks, Kent",
+   "Tonbridge, Kent",
+   "Tunbridge Wells, Kent",
+   "Winchester, Hampshire",
+   "Wokingham, Berkshire"
+  ]
  }
 ]

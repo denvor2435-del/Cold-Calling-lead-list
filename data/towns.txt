@@ -61,3 +61,21 @@ Chesham, Buckinghamshire
 Aylesbury, Buckinghamshire
 Bracknell, Berkshire
 Newbury, Berkshire
+# Region 3 (my ranking): Kent, Sussex, Essex, north Hampshire commuter belt
+Sevenoaks, Kent
+Tunbridge Wells, Kent
+Tonbridge, Kent
+Horsham, West Sussex
+Haywards Heath, West Sussex
+East Grinstead, West Sussex
+Brentwood, Essex
+Chelmsford, Essex
+Epping, Essex
+Saffron Walden, Essex
+Billericay, Essex
+Fleet, Hampshire
+Farnborough, Hampshire
+Basingstoke, Hampshire
+Winchester, Hampshire
+Maidstone, Kent
+Crawley, West Sussex

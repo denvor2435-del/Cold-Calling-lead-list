@@ -31,7 +31,8 @@ OFF_NICHE = re.compile(r"bathroom|tile|ceramic|stone|marble|quartz|granite|workt
                        r"extension|roofing|floor|carpet|curtain|blind|wardrobe|bedroom furniture|garden|"
                        r"outdoor|electrical|appliance|bed\b|sofa|carpent|interior design|handles|\btops\b|"
                        r"home improvement|contruction|conversion|contracts|neatsmith|tinkletorium", re.I)
-ALWAYS_OFF = re.compile(r"outdoor kitchen|worktop|cake|wraps?\b|kitchen doors|huws gray|double glazing|"
+ALWAYS_OFF = re.compile(r"outdoor kitchen|worktop|cake|builders|windows|kitchen appliances|\btrade\b|renovations? ltd|"
+                        r"iyer|wraps?\b|kitchen doors|huws gray|double glazing|"
                         r"igd building|house refurbishment|procook|equipment|makeover|revamp|kitchenfitter|"
                         r"commercial kitchen|catering|steelplan|architect|"
                         r"planning permission|kitchen in the garden|fitters?\b|install|fit a kitchen|"
