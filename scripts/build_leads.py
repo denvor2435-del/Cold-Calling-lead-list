@@ -192,12 +192,13 @@ def owner_short(v):
     return f"{name} (verify)" if name and verify else name
 
 def write_xlsx(path, leads, cols, today):
-    """Call sheet kept deliberately simple: 5 columns, one tab, sorted by area.
+    """Call sheet kept deliberately simple: 5 columns, one tab, 07 mobiles first, then by area.
     Full detail (website, address, Companies House no., etc.) stays in leads/all_leads.csv."""
     wb = Workbook()
     ws = wb.active; ws.title = today
     ws.append([c for c, _ in SIMPLE])
-    for r in sorted(leads, key=lambda r: (r["City"], r["Company"])):
+    # Mobiles (07) first: at small firms that's usually the owner's own phone. Then by area.
+    for r in sorted(leads, key=lambda r: (not r["Phone"].startswith("07"), r["City"], r["Company"])):
         try: n = int(r["Google reviews"] or 0)
         except ValueError: n = 0
         ws.append([r["Company"], owner_short(r.get("Owner / director", "")), r["Phone"], n, r["City"]])
