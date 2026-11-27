@@ -208,5 +208,48 @@
    "Winchester, Hampshire",
    "Wokingham, Berkshire"
   ]
+ },
+ {
+  "api_requests": 60,
+  "date": "2026-11-27",
+  "leads": 134,
+  "search_areas_done": [
+   "Brighton, East Sussex",
+   "Bromley, London",
+   "Cambridge, Cambridgeshire",
+   "Canterbury, Kent",
+   "Chichester, West Sussex",
+   "Crawley, West Sussex",
+   "Hove, East Sussex",
+   "Kingston upon Thames, London",
+   "Lewes, East Sussex",
+   "Oxford, Oxfordshire",
+   "Richmond, London",
+   "Westerham, Kent",
+   "Wimbledon, London"
+  ]
+ },
+ {
+  "api_requests": 17,
+  "date": "2026-11-27",
+  "leads": 151,
+  "search_areas_done": [
+   "Bedford, Bedfordshire",
+   "Brighton, East Sussex",
+   "Bromley, London",
+   "Cambridge, Cambridgeshire",
+   "Canterbury, Kent",
+   "Chichester, West Sussex",
+   "Crawley, West Sussex",
+   "Hove, East Sussex",
+   "Kingston upon Thames, London",
+   "Lewes, East Sussex",
+   "Milton Keynes, Buckinghamshire",
+   "Oxford, Oxfordshire",
+   "Petersfield, Hampshire",
+   "Richmond, London",
+   "Westerham, Kent",
+   "Wimbledon, London"
+  ]
  }
 ]

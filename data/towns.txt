@@ -79,3 +79,22 @@ Basingstoke, Hampshire
 Winchester, Hampshire
 Maidstone, Kent
 Crawley, West Sussex
+# Region 4 (my ranking): affluent towns/cities ringing London
+Richmond, London
+Wimbledon, London
+Kingston upon Thames, London
+Bromley, London
+Oxford, Oxfordshire
+Cambridge, Cambridgeshire
+Brighton, East Sussex
+Hove, East Sussex
+Chichester, West Sussex
+Lewes, East Sussex
+Canterbury, Kent
+Westerham, Kent
+Milton Keynes, Buckinghamshire
+Bedford, Bedfordshire
+Petersfield, Hampshire
+Romsey, Hampshire
+Southampton, Hampshire
+Ashford, Kent

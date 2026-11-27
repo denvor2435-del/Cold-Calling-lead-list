@@ -31,7 +31,7 @@ OFF_NICHE = re.compile(r"bathroom|tile|ceramic|stone|marble|quartz|granite|workt
                        r"extension|roofing|floor|carpet|curtain|blind|wardrobe|bedroom furniture|garden|"
                        r"outdoor|electrical|appliance|bed\b|sofa|carpent|interior design|handles|\btops\b|"
                        r"home improvement|contruction|conversion|contracts|neatsmith|tinkletorium", re.I)
-ALWAYS_OFF = re.compile(r"outdoor kitchen|worktop|cake|builders|windows|kitchen appliances|\btrade\b|renovations? ltd|"
+ALWAYS_OFF = re.compile(r"kitchen fitting|online kitchen|kitchenalia|kitchen extension|build my kitchen|outdoor kitchen|worktop|cake|builders|windows|kitchen appliances|\btrade\b|renovations? ltd|"
                         r"iyer|wraps?\b|kitchen doors|huws gray|double glazing|"
                         r"igd building|house refurbishment|procook|equipment|makeover|revamp|kitchenfitter|"
                         r"commercial kitchen|catering|steelplan|architect|"
@@ -56,7 +56,7 @@ def fit_for_niche(title, website=None):
 # Postcode areas of London + the commuter belt (Region 1 and the regions next to it).
 # Stops a search for "Royston" or "Windsor" pulling in the town of the same name elsewhere.
 SOUTH_EAST = {"GU","KT","RH","SM","CR","TW","AL","SG","HP","WD","EN","CM","LU","SL","RG","OX","MK",
-              "HA","UB","N","NW","E","EC","SE","SW","W","WC","BR","TN","ME","DA","IG","RM","SS","CB","PO","BN"}
+              "HA","UB","N","NW","E","EC","SE","SW","W","WC","BR","TN","ME","DA","IG","RM","SS","CB","PO","BN","CT","SO"}
 
 def in_region(address):
     m = re.search(r"\b([A-Z]{1,2})\d[A-Z\d]?\s*\d[A-Z]{2}\b", address or "")
